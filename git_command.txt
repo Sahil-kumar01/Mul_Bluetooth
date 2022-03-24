@@ -1,0 +1,17 @@
+Step 0  : git status (to check the stagin area)
+Step 1  : git add . (to add all files)
+	  git add <filename with extension>
+step 2  : git commit -m "Add short description"
+Step 3   : git push <remote alias>  <branch  name>
+	Eg. git push origin main
+Step 4 : git pull origin main (to update the local repo with central repo)
+Optionals ::
+
+git log (to see history)
+git show (to see the changes)
+git remote -v (to list all the remotes)
+	  
+	  
+For the collaborator ::
+1. git clone <url> . (it should be done in blank folder)
+ then follow the same steps only if he is COLLABORATOR
