@@ -15,3 +15,6 @@ git remote -v (to list all the remotes)
 For the collaborator ::
 1. git clone <url> . (it should be done in blank folder)
  then follow the same steps only if he is COLLABORATOR
+ 
+ 
+ //hi hello
