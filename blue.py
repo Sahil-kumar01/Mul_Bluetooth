@@ -4,6 +4,7 @@ Bluetooth using PyBluez (with Python 2).
 """
 
 import bluetooth
+//Hi sahil
 
 hostMACAddress = '11:11:22:bb:b7:93'  # The MAC address of a Bluetooth adapter on the server. The server might have
 # multiple Bluetooth adapters.
